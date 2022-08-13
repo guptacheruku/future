@@ -2,7 +2,8 @@
 https://happy-tree-03d0d1110.1.azurestaticapps.net
 
 #description
-This is a Webpage developed using HTML & CSS as part of FUTURE READY TALENT Internship Project & implementing Microsoft Azure Services like The Static Webapp to deploy the website and QnA makers to answers the queries of the consumers.
+
+This is a Webpage developed using HTML & CSS as part of FUTURE READY TALENT Internship Project & implementing Microsoft Azure Services like The Static Webapp to deploy the website and QnA makers to answers the queries of the consumers. in this project we can learn how to cultivate in a good manner and we get aware about the agriculture services
 
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/91279519/184471061-ee7491e4-1220-472e-b57b-5af0a2914e1b.png">
 
